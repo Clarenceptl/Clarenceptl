@@ -15,7 +15,7 @@
 
 <h3 align="left">Stats</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clarenceptl&show_icons=true&count_private=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Clarenceptl)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clarenceptl&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Clarenceptl)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clarenceptl)](https://github.com/ryo-ma/github-profile-trophy)
 
