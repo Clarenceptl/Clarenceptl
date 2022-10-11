@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there 👋, My name is Clarence</h1>
+<h1 align='center'>Hi there 👋, My name is Clarence</h1> 
 <h3 align="center">I am web developer student in France 🇫🇷</h3> 
 <p align="center"><img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lwi36ebl6068744b235k2g6yoygdr8ddnvx03a68&rid=giphy.gif" alt="developer gif" /></p>
 
@@ -6,7 +6,7 @@
 - 🎓 My different projects are mainly school or personal projects.
 - 🔭 I’m currently working on school projects
 - 👨🏻‍💻 I am an intern in a start-up about company mutuals
-- 📫 How to reach me: potel.clarence@gmail.com or linkedin below
+- 📫 How to reach me: potel.clarence@gmail.com or linkedin 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/clarence-potel/)
 
@@ -20,5 +20,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clarenceptl)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/Clarenceptl)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Clarenceptl) <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
