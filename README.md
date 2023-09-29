@@ -70,4 +70,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Clarenceptl&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🪪 Daily Dev card
-<a href="https://app.daily.dev/clarenceptl"><img src="https://api.daily.dev/devcards/a226b0737c1f42f68204ee2c67f4f73e.png?r=esg" width="400" alt="Clarence's Dev Card"/></a>
+<a href="https://app.daily.dev/clarenceptl"><img src="https://api.daily.dev/devcards/a226b0737c1f42f68204ee2c67f4f73e.png?r=esg" width="300" alt="Clarence's Dev Card"/></a>
