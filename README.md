@@ -5,14 +5,14 @@
 ## 👨🏻‍💻 ABOUT ME
 - My different projects are mainly school or personal projects.
 - I am an intern in a start-up about company mutuals
-- I am a fullstack developer, but I prefer frontend
+- I am a fullstack developer, but more skilled on frontend
 
 ## 📧 CONTACTS
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:potel.clarence@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-potel)
 
-## ✨ FRONT END STACK
+## ✨ FRONT END SKILLS
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css3-%23026AA7.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -26,7 +26,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🏗️ BACK END STACK
+## 🏗️ BACK END SKILLS
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -38,7 +38,8 @@
 <br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ## ⛅ CI/CD and infrastucture
 
@@ -51,23 +52,13 @@
 
 ## 🎁 OTHERS
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
 
 ## 📊 GitHub Stats:
-![](https://visitcount.itsvg.in/api?id=Clarenceptl&icon=1&color=3)
-<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Clarenceptl)
-<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=Clarenceptl&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Clarenceptl&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Clarenceptl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Clarenceptl&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🪪 Daily Dev card
 <a href="https://app.daily.dev/clarenceptl"><img src="https://api.daily.dev/devcards/a226b0737c1f42f68204ee2c67f4f73e.png?r=esg" width="300" alt="Clarence's Dev Card"/></a>
