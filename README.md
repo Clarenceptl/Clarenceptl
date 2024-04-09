@@ -61,4 +61,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Clarenceptl&theme=dark&hide_border=false)
 
 ## 🪪 Daily Dev card
-<a href="https://app.daily.dev/clarenceptl"><img src="https://api.daily.dev/devcards/a226b0737c1f42f68204ee2c67f4f73e.png?r=esg" width="300" alt="Clarence's Dev Card"/></a>
+<a href="https://app.daily.dev/clarenceptl"><img src="https://api.daily.dev/devcards/v2/MopxymFHkd6RmeSeqXzPq.png?r=rdz&type=wide" width="652" alt="Clarence's Dev Card"/></a>
