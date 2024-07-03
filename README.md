@@ -2,17 +2,22 @@
 <h3 align="center">I am Clarence a web developer student from France</h3> 
 <p align="center"><img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lwi36ebl6068744b235k2g6yoygdr8ddnvx03a68&rid=giphy.gif" alt="developer gif" /></p>
 
-## 👨🏻‍💻 ABOUT ME
-- My different projects are mainly school or personal projects.
-- I am an intern in a start-up about company mutuals
-- I am a fullstack developer, but more skilled on frontend
+<details>
+<summary><h2>👨🏻‍💻 About Me</h2></summary>
+<ul>
+  <li>My different projects are mainly school or personal projects.</li>
+  <li>I am an intern in a start-up about company mutuals.</li>
+  <li>I am a fullstack developer, but more skilled on frontend.</li>
+</ul>
+</details>
 
-## 📧 CONTACTS
+<details>
+  <summary><h2>📧 Contacts<h2></summary>
+    <a href="mailto:potel.clarence@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge Gmail" /></a>
+    <a href="https://www.linkedin.com/in/clarence-potel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge LinkedIn" /></a>
+</details>
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:potel.clarence@gmail.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-potel)
-
-## ✨ FRONT END SKILLS
+## ✨ Frontend Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css3-%23026AA7.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -26,7 +31,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🏗️ BACK END SKILLS
+## 🏗️ Backend Skills
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -50,15 +55,17 @@
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 🎁 OTHERS
+<details>
+  <summary><h2>🎁 Others</h2></summary>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Badge Figma"/>
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Badge Dribble" />
+</details>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Clarenceptl&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Clarenceptl&theme=dark&hide_border=false)
+<details>
+  <summary><h2>📊 GitHub Stats</h2></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=Clarenceptl&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="Stats github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clarenceptl&theme=dark&hide_border=false" alt="Stats github" />
+</details>
 
 ## 🪪 Daily Dev card
-<a href="https://app.daily.dev/clarenceptl"><img src="https://api.daily.dev/devcards/v2/MopxymFHkd6RmeSeqXzPq.png?r=rdz&type=wide" width="652" alt="Clarence's Dev Card"/></a>
+<a href="https://app.daily.dev/clarenceptl"><img src="https://api.daily.dev/devcards/v2/MopxymFHkd6RmeSeqXzPq.png?r=rdz&type=wide" width="552" alt="Clarence's Dev Card"/></a>
