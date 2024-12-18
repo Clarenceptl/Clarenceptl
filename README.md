@@ -1,6 +1,18 @@
-<h1 align='center'>Hello there 👋</h1> 
-<h3 align="center">I am Clarence a web developer student from France</h3> 
-<p align="center"><img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lwi36ebl6068744b235k2g6yoygdr8ddnvx03a68&rid=giphy.gif" alt="developer gif" /></p>
+<h1 align='center'>
+  Hello there 
+  👋🏻
+</h1> 
+  
+<h3 align="center">I am Clarence a web developer from France</h3> 
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/Clarenceptl"
+      width="600"
+      height="300"
+    />
+  </a>
+</p>
 
 <details>
 <summary><h2>👨🏻‍💻 About Me</h2></summary>
@@ -9,6 +21,11 @@
   <li>I am an intern in a start-up about company mutuals.</li>
   <li>I am a fullstack developer, but more skilled on frontend.</li>
 </ul>
+<img
+  src="https://render.gitanimals.org/lines/Clarenceptl?pet-id=25"
+  width="300"
+  height="150"
+/>
 </details>
 
 <details>
