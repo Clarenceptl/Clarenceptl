@@ -5,13 +5,7 @@
   
 <h3 align="center">I am Clarence a web developer from France</h3> 
 <p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/Clarenceptl"
-      width="600"
-      height="300"
-    />
-  </a>
+  <img width="480" height="360" alt="image" src="https://camo.githubusercontent.com/66aa2bca6e02e2f8ead19ea9343d91dcf2f9b503a3e0b9f757f0be8732145315/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d65636630356534376c7769333665626c36303638373434623233356b326736796f796764723864646e76783033613638267269643d67697068792e676966" />
 </p>
 
 <details>
